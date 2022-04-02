@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, everbody! 👋
+My name is Vitor Augusto Almeida de Moura.
+I'm a great lover of the incredible technoloy world.
+Feel free to contact me or even use my github repositorys!
+
+
+![20220402_125421](https://user-images.githubusercontent.com/95655990/161391524-22457fd5-d1b5-4008-a9ad-093425ed9472.gif)
+
 
 <!--
 **VitorAam/VitorAam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
