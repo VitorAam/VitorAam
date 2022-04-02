@@ -1,11 +1,17 @@
 ### Hello, everbody! 👋
 My name is Vitor Augusto Almeida de Moura.
+
 I'm a great lover of the incredible technoloy world.
+
 Feel free to contact me or even use my github's repositorys!
 
+
 Olá, para todos!
+
 Meu nome é Vitor Augusto Almeida de Moura.
+
 Eu sou um grande amante do incrível mundo da tecnologia.
+
 Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
 
