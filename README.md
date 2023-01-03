@@ -16,10 +16,10 @@ Sinta-se livre para me contactar ou usar os repositórios do meu github!
 <img src="https://github-readme-stats.vercel.app/api?username=VitorAam&show_icons=true&theme=radical" alt="ovi")/>
 
 
-<a href="https://www.linkedin.com/in/vitor-aam/">
+<div alignContent="center"><a href="https://www.linkedin.com/in/vitor-aam/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
   
 <a href="https://www.instagram.com/vitorluci1/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+</a></div>
