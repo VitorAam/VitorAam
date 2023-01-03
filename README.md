@@ -11,11 +11,11 @@ Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
 📍 Localizado em Caruaru/PE e disponível para trabalho remoto; <br>
 💼 Trabalhando como Freelancer de Web Desenvolvimento; <br>
-📚 Estudante formado da <a href="https://www.resilia.com.br/" target="_blank">Resilia Educação</a>;
+📚 Estudante formado da <a href="https://www.resilia.com.br/">Resilia Educação</a>;
 
 
-![20220402_125421](https://user-images.githubusercontent.com/95655990/161391524-22457fd5-d1b5-4008-a9ad-093425ed9472.gif)
-
+<a href="https://www.linkedin.com/in/vitor-aam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/vitorluci1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <!--
 **VitorAam/VitorAam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
