@@ -19,7 +19,7 @@ Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorAam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAam&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=VitorAam&show_icons=true&theme=radical" alt="ovi")
 <!--
 **VitorAam/VitorAam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
