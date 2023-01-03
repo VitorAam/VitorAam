@@ -9,8 +9,8 @@ Meu nome é Vitor Augusto Almeida de Moura.
 Eu sou um grande amante do incrível mundo da tecnologia.
 Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
-📍 Localizado em Caruaru/PE e disponível para trabalho remoto;
-💼 Trabalhando como Freelancer de Web Desenvolvimento;
+📍 Localizado em Caruaru/PE e disponível para trabalho remoto; <br>
+💼 Trabalhando como Freelancer de Web Desenvolvimento; <br>
 📚 Estudante formado da [Resilia Educação](http://https://www.resilia.com.br/);
 
 
