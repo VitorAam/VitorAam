@@ -18,7 +18,7 @@ Sinta-se livre para me contactar ou usar os repositórios do meu github!
 <a href="https://www.instagram.com/vitorluci1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorAam_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoraam_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **VitorAam/VitorAam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
