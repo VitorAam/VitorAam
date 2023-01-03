@@ -11,7 +11,7 @@ Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
 📍 Localizado em Caruaru/PE e disponível para trabalho remoto;
 💼 Trabalhando como Freelancer de Web Desenvolvimento;
-📚 Estudante formado da <a name="resilia">Resilia Educação</a>; [link text](http://https://www.resilia.com.br/#resilia)
+📚 Estudante formado da [Resilia Educação](http://https://www.resilia.com.br/);
 
 
 ![20220402_125421](https://user-images.githubusercontent.com/95655990/161391524-22457fd5-d1b5-4008-a9ad-093425ed9472.gif)
