@@ -16,7 +16,7 @@ Sinta-se livre para me contactar ou usar os repositórios do meu github!
 <img src="https://github-readme-stats.vercel.app/api?username=VitorAam&show_icons=true&theme=radical" alt="ovi")/>
 
 
-<div style="display: flex; justify-content: space-between">
+<div align="center">
   <a href="https://www.linkedin.com/in/vitor-aam/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
