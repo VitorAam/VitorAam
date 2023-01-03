@@ -3,7 +3,7 @@
 ## Olá, para todos! <br>
 Meu nome é Vitor Augusto Almeida de Moura.
 Eu sou um grande amante do incrível mundo da tecnologia.
-Venho me aprimorando para alcançar até os mais distantes horizontes, descobrir novas técnicas e conquistar novos espaços, e estou sempre disposto a aprender caminhos diferentes<br>
+Venho me aprimorando para alcançar até os mais distantes horizontes, descobrir novas técnicas e conquistar novos espaços, e estou sempre disposto a aprender caminhos diferentes<br> <br>
 Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
 📍 Localizado em Caruaru/PE e disponível para trabalho remoto; <br>
