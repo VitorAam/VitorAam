@@ -7,7 +7,7 @@ Venho me aprimorando para alcançar até os mais distantes horizontes, descobrir
 Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
 📍 Localizado em Caruaru/PE e disponível para trabalho remoto; <br>
-💼 Trabalhando como Freelancer de Web Desenvolvimento; <br>
+💼 Trabalhando na <a href="https://hubee.co/">Hubee</a> como desenvolvedor full-stack; <br>
 📚 Estudante formado da <a href="https://www.resilia.com.br/">Resilia Educação</a>;
 
 
