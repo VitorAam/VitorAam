@@ -7,15 +7,9 @@ Venho me aprimorando para alcançar até os mais distantes horizontes, descobrir
 Sinta-se livre para me contactar ou usar os repositórios do meu github!
 
 📍 Localizado em Caruaru/PE e disponível para trabalho remoto; <br>
-💼 Trabalhando na <a href="https://www.petz.com.br/">Petz</a> como desenvolvedor front-end; <br>
+💼 Trabalhando na <a href="https://www.petz.com.br/">Petz</a> como desenvolvedor front-end Pleno; <br>
 📚 Estudante formado da <a href="https://www.resilia.com.br/">Resilia Educação</a>;
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorAam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=VitorAam&show_icons=true&theme=radical" alt="ovi")/>
-
+:book: Estudante de Ciências da Computação
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-aam/">
